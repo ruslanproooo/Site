@@ -1,0 +1,204 @@
+body {
+    background-color: #E6E6E6;
+}
+.header {
+    background-color: white;
+    width: 100%;
+    height: 100px;
+}
+#img1 {
+    border-radius: 40px;
+}
+#logo {
+    margin-left: 150px;
+    padding-top: 22px;
+    float: left;
+}
+#text1 {
+    float: left;
+    padding-top: 33px;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+}
+#poisk {
+    margin-top: 32px;
+    width: 40%;
+    height: 35px;
+    margin-left: 15px;
+    background-color: #E6E6E6;
+    border-radius: 5px;
+    border: 0px;
+    float: left;
+}
+#button {
+    margin-top: 32px;
+    height: 35px;
+    width: 110%;
+    border-radius: 5px;
+    border: 0px;
+    background-color: gray;
+    margin-left: 5px;
+}
+.butt {
+    float: left;
+}
+#button2 {
+    margin-top: 35px;
+    height: 30px;
+    width: 150px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: #E6E6E6;
+    margin-left: 5px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    text-align: center;
+}
+.butt2 {
+    float: right;
+    margin-right: 150px;
+}
+#button3 {
+    margin-top: 35px;
+    height: 30px;
+    width: 70px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: #E6E6E6;
+    margin-right: 5px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    text-align: center;
+}
+.butt3 {
+    float: right;
+}
+::placeholder {
+    font-size: 15px;
+    padding-left: 15px;
+}
+a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+.foto {
+    margin-left: 150px;
+    width: 40%;
+    height: 400px;
+    background-color: white;
+    margin-top: 50px;
+    border-radius: 5px;
+    float: left;
+}
+#f1 {
+    border-radius: 5px;
+}
+.name {
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+}
+.xar {
+    background-color: white;
+    width: 20%;
+    height: 270px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+span {
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#s1 {
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#s2 {
+    font-size: 17px;
+    margin-left: 20px;
+    margin-top: 8px;
+}
+#s3 {
+    margin-top: 8px;
+    font-size: 20px;
+    margin-right: 20px;
+    float: right;
+}
+.buttons {
+    width: 45%;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+#buttonk {
+    width: 30%;
+    height: 50px;
+    border-radius: 20px;
+    border: 0px;
+    background-color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+#buttonk2 {
+    width: 30%;
+    height: 50px;
+    margin-left: 20px;
+    border-radius: 20px;
+    border: 0px;
+    background-color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+.foot {
+    width: 100%;
+    height: 250px;
+    background-color: #B0B0B0;
+    float: left;
+    margin-top: 140px;
+}
+#komp {
+    width: 25%;
+    margin-left: 150px;
+    height: 150px;
+    margin-top: 50px;
+    float: left;
+}
+#yslygi2 {
+    width: 25%;
+    margin-left: 10px;
+    height: 150px;
+    margin-top: 50px;
+    float: left;
+}
+#podd {
+    width: 25%;
+    margin-left: 10px;
+    height: 150px;
+    margin-top: 50px;
+    float: left;
+}
+#kk {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#sil {
+    margin-top: 10px;
+}
+#t2 {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    margin-left: 150px;
+}

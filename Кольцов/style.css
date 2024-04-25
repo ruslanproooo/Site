@@ -1,0 +1,310 @@
+body {
+    background-color: #E6E6E6;
+}
+.header {
+    background-color: white;
+    width: 100%;
+    height: 100px;
+}
+#img1 {
+    border-radius: 40px;
+}
+#logo {
+    margin-left: 150px;
+    padding-top: 22px;
+    float: left;
+}
+#text1 {
+    float: left;
+    padding-top: 33px;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+}
+#poisk {
+    margin-top: 32px;
+    width: 40%;
+    height: 35px;
+    margin-left: 15px;
+    background-color: #E6E6E6;
+    border-radius: 5px;
+    border: 0px;
+    float: left;
+}
+#button {
+    margin-top: 32px;
+    height: 35px;
+    width: 110%;
+    border-radius: 5px;
+    border: 0px;
+    background-color: gray;
+    margin-left: 5px;
+}
+.butt {
+    float: left;
+}
+#button2 {
+    margin-top: 35px;
+    height: 30px;
+    width: 150px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: #E6E6E6;
+    margin-left: 5px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    text-align: center;
+}
+.butt2 {
+    float: right;
+    margin-right: 150px;
+}
+#button3 {
+    margin-top: 35px;
+    height: 30px;
+    width: 70px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: #E6E6E6;
+    margin-right: 5px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    text-align: center;
+}
+.butt3 {
+    float: right;
+}
+::placeholder {
+    font-size: 15px;
+    padding-left: 15px;
+}
+.cont {
+    float: left;
+}
+#nav {
+    background-color: white;
+    width: 230px;
+    height: 140px;
+    margin-left: 150px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+#text5 {
+    float: left;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+#text6 {
+    float: left;
+    margin-left: 25px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+#texta {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+#nav2 {
+    background-color: white;
+    width: 300px;
+    height: 400px;
+    margin-left: 150px;
+    margin-top: 30px;
+    border-radius: 5px;
+    float: left;
+}
+#popular {
+    float: right;
+    width: 65%;
+    height: 250px;
+    margin-right: 150px;
+    margin-top: 30px;
+}
+#yslygi {
+    float: right;
+    width: 65%;
+    height: 390px;
+    margin-right: 150px;
+    margin-top: 50px;
+}
+#text3 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.butt4 {
+    float: left;
+}
+#button4 {
+    width: 250px;
+    height: 315px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: gray;
+}
+#button5 {
+    width: 250px;
+    height: 315px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: gray;
+}
+#button6 {
+    width: 250px;
+    height: 315px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: gray;
+}
+#button7 {
+    width: 250px;
+    height: 315px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: gray;
+}
+.foot {
+    width: 100%;
+    height: 250px;
+    background-color: #B0B0B0;
+    float: left;
+    margin-top: 30px;
+}
+#komp {
+    width: 25%;
+    margin-left: 150px;
+    height: 150px;
+    margin-top: 50px;
+    float: left;
+}
+#yslygi2 {
+    width: 25%;
+    margin-left: 10px;
+    height: 150px;
+    margin-top: 50px;
+    float: left;
+}
+#podd {
+    width: 25%;
+    margin-left: 10px;
+    height: 150px;
+    margin-top: 50px;
+    float: left;
+}
+#kk {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#sil {
+    margin-top: 10px;
+}
+#t2 {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    margin-left: 150px;
+}
+#text2 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.butt5 {
+    float: left;
+}
+#button8 {
+    width: 200px;
+    height: 230px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: white;
+}
+#button9 {
+    width: 200px;
+    height: 230px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: white;
+}
+#button10 {
+    width: 200px;
+    height: 230px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: white;
+}
+#button11 {
+    width: 200px;
+    height: 230px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: white;
+}
+#button12 {
+    width: 200px;
+    height: 230px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: white;
+}
+#im {
+    width: 180px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+#textt {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+}
+#cena {
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+#at {
+    line-height: 20px;
+}
+#vozvrat {
+    width: 250px;
+    height: 200px;
+    border-radius: 5px;
+}
+#ys {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    margin-top: 10px;
+    color: white;
+}
+#at2 {
+    line-height: 40px;
+    color: white;
+}
